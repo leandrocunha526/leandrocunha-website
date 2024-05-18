@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <loc>https://leandrocunha-website.vercel.app/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://leandrocunha-website.vercel.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                href="https://leandrocunha-website.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://leandrocunha-website.vercel.app/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/</loc>
+    <loc>https://leandrocunha-website.vercel.app/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://leandrocunha-website.vercel.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="https://leandrocunha-website.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/"
+                href="https://leandrocunha-website.vercel.app/pt-br/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <loc>https://leandrocunha-website.vercel.app/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://leandrocunha-website.vercel.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="https://leandrocunha-website.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/tags/"
+                href="https://leandrocunha-website.vercel.app/pt-br/tags/"
                 />
   </url>
 </urlset>

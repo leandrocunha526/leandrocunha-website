@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on About Leandro Cunha</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>https://leandrocunha-website.vercel.app/tags/blog/</link>
     <description>Recent content in Blog on About Leandro Cunha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 May 2024 16:04:06 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leandrocunha-website.vercel.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Support for Multiple Authors</title>
-      <link>http://localhost:1313/en/blog/multi-author/</link>
+      <link>https://leandrocunha-website.vercel.app/en/blog/multi-author/</link>
       <pubDate>Fri, 17 May 2024 16:04:06 -0300</pubDate>
-      <guid>http://localhost:1313/en/blog/multi-author/</guid>
+      <guid>https://leandrocunha-website.vercel.app/en/blog/multi-author/</guid>
       <description>Using Introduction, your site can feature multiple authors. Each post displays a byline &amp;ndash; the name of a post&amp;rsquo;s author &amp;ndash; if the author field is set in the post front matter. For example, here&amp;rsquo;s the front matter for this post:&#xA;--- title: &amp;#34;Support for Multiple Authors&amp;#34; date: 2022-02-20T02:04:06-05:00 tags: [&amp;#34;features&amp;#34;, &amp;#34;blog&amp;#34;] series: [&amp;#34;quickstart&amp;#34;] author: [&amp;#34;Hugo Contributors&amp;#34;] --- You can list one or more authors. For example, here&amp;rsquo;s a byline with two credits:</description>
     </item>
   </channel>

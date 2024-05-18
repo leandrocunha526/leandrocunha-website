@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://leandrocunha-website.vercel.app/'
 languageCode = 'en-us'
 title = 'About Leandro Cunha'
 theme = 'introduction'
